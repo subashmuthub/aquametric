@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'constants.dart';
 import 'user_service.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 
 class AchievementsScreen extends StatefulWidget {
   const AchievementsScreen({super.key});

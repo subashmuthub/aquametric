@@ -369,7 +369,7 @@ class _NotificationSettingsScreenState extends State<NotificationSettingsScreen>
         ),
         value: value,
         onChanged: onChanged,
-        activeColor: color,
+        activeThumbColor: color,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12),
         ),

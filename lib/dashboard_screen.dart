@@ -520,8 +520,8 @@ class _DashboardScreenState extends State<DashboardScreen> {
       floatingActionButton: FloatingActionButton(
         onPressed: _triggerTestNotifications,
         backgroundColor: Colors.orange,
-        child: const Icon(Icons.science, color: Colors.white),
         tooltip: 'Test Notifications',
+        child: const Icon(Icons.science, color: Colors.white),
       ),
     );
   }
